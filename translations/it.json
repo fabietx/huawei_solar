@@ -535,6 +535,15 @@
             },
             "total_energy_consumption": {
                 "name": "Total energy consumption"
+            },
+            "insulation_resistance": {
+                "name": "Resistenza di isolamento"
+            },
+            "internal_temperature": {
+                "name": "Temperatura interna"
+            },
+            "forcible_charge": {
+                "name": "Carica forzata"
             }
         },
         "switch": {
